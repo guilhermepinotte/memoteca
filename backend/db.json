@@ -1,0 +1,28 @@
+{
+  "pensamentos": [
+    {
+      "id": 1,
+      "conteudo": "Vasco",
+      "autoria": "Guilherme",
+      "modelo": "modelo1"
+    },
+    {
+      "id": 2,
+      "conteudo": "da",
+      "autoria": "Nicchio",
+      "modelo": "modelo2"
+    },
+    {
+      "id": 3,
+      "conteudo": "GAMA",
+      "autoria": "PINOTTE",
+      "modelo": "modelo3"
+    },
+    {
+      "conteudo": "e nada mais",
+      "autoria": "Ana Luísa M Pinotte",
+      "modelo": "modelo2",
+      "id": 4
+    }
+  ]
+}
