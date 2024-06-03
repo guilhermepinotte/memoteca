@@ -4,43 +4,57 @@
       "id": 1,
       "conteudo": "Vasco",
       "autoria": "Guilherme",
-      "modelo": "modelo1"
+      "modelo": "modelo1",
+      "favorito": true
     },
     {
       "id": 2,
       "conteudo": "da",
       "autoria": "Nicchio",
-      "modelo": "modelo2"
+      "modelo": "modelo2",
+      "favorito": false
     },
     {
       "id": 3,
       "conteudo": "GAMA",
       "autoria": "PINOTTE",
-      "modelo": "modelo3"
+      "modelo": "modelo3",
+      "favorito": false
     },
     {
       "conteudo": "e nada mais",
       "autoria": "Ana Luísa M Pinotte",
       "modelo": "modelo2",
+      "favorito": true,
       "id": 4
     },
     {
       "conteudo": "asdf",
       "autoria": "sss",
       "modelo": "modelo1",
+      "favorito": false,
       "id": 5
     },
     {
       "conteudo": "teste",
       "autoria": "teste",
       "modelo": "modelo1",
+      "favorito": false,
       "id": 6
     },
     {
       "conteudo": "lorem ispsum sit amet",
       "autoria": "testando",
       "modelo": "modelo2",
+      "favorito": false,
       "id": 7
+    },
+    {
+      "conteudo": "A vingança não é plena. Mata a alma e a envenena.",
+      "autoria": "Sr Madruga",
+      "modelo": "modelo3",
+      "favorito": false,
+      "id": 8
     }
   ]
 }
